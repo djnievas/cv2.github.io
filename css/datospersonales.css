@@ -1,0 +1,46 @@
+.imagen-personal{
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: aquamarine;
+    
+}
+.ptext{
+   background-repeat: auto;
+   color: red;
+   padding: auto;
+   width: 300px;
+   font-size: 30px;
+   font-family: 'Helvetica', sans-serif;
+}
+
+.boton1 {
+    background-color: #312a50; /* blue*/
+    border: none;
+    color: white;
+    padding: 30px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.boton{
+    text-align: center
+}
+
+.boton3{
+    background-color: #f71111; /* red*/
+    border: none;
+    color: white;
+    padding: 30px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
